@@ -2,6 +2,9 @@
 
 A simple and responsive Notes App built to help users create, edit, and delete notes with ease. Ideal for quick jotting, task tracking, and personal reminders.
 
+# 📝 Detailed Description
+This Notes App is a full-stack application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create, update, delete, and view notes in an intuitive interface. The frontend is built with React, ensuring fast and responsive user interactions, while the backend uses Express and MongoDB for efficient data handling and storage. It supports features like rich text editing, timestamp tracking, and persistent storage. The project follows a clean folder structure, and is ideal for learning or extending with authentication, cloud hosting, or additional features like reminders or categories.
+
 ## 🔧 Features
 
 - ➕ Create new notes
